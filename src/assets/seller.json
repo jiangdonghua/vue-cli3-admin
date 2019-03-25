@@ -1,0 +1,178 @@
+{
+  "restaurant": {
+    "act_tag": 0,
+    "activities": [{
+      "attribute": "{\"32\": {\"1\": 5.0, \"0\": 0}, \"56\": {\"1\": 12.0, \"0\": 0}}",
+      "description": "满32减5，满56减12",
+      "icon_color": "f07373",
+      "icon_name": "减",
+      "id": 1903670994,
+      "is_exclusive_with_food_activity": true,
+      "name": "自营销复杂满减活动",
+      "tips": "满32减5，满56减12",
+      "type": 102
+    }, {
+      "description": "折扣商品5折起",
+      "icon_color": "f07373",
+      "icon_name": "折",
+      "id": 2105408746,
+      "name": "女神节5折下午茶",
+      "tips": "女神节5折下午茶"
+    }, {
+      "attribute": "16.0",
+      "description": "新用户下单立减16元",
+      "icon_color": "70bc46",
+      "icon_name": "首",
+      "id": 2081863794,
+      "is_exclusive_with_food_activity": true,
+      "name": "新用户立减(不与其他活动共享)",
+      "tips": "新用户下单立减16元",
+      "type": 103
+    }, {
+      "attribute": "5.0",
+      "description": "本店新用户立减5元",
+      "icon_color": "00b762",
+      "icon_name": "新",
+      "id": 422929257,
+      "is_exclusive_with_food_activity": true,
+      "name": "门店新客立减",
+      "tips": "本店新用户立减5元",
+      "type": 108
+    }, {
+      "description": "特价商品27.9元起",
+      "icon_color": "f1884f",
+      "icon_name": "特",
+      "id": 2068705650,
+      "name": "单品定价",
+      "tips": "单品定价"
+    }],
+    "address": "上海市普陀区长寿路189号1F层L108A,L109A商铺",
+    "authentic_id": 5364448612940057,
+    "business_info": "{\"lemon_support_tags\": [{\"color\": \"cce23028\", \"text\": \"32减5\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"56减12\", \"border\": \"4ce23028\", \"background\": null, \"type\": 1, \"icon\": null}, {\"color\": \"a25c03\", \"text\": \"9元会员红包\", \"border\": \"4ca25c03\", \"background\": null, \"type\": 2, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"品质联盟\", \"border\": \"4ce23028\", \"background\": null, \"type\": 4, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"门店新客减5\", \"border\": \"4ce23028\", \"background\": null, \"type\": 6, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"5折\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"27.9元特价\", \"border\": \"4ce23028\", \"background\": null, \"type\": 7, \"icon\": null}, {\"color\": \"cce23028\", \"text\": \"首单减16\", \"border\": \"4ce23028\", \"background\": null, \"type\": 5, \"icon\": null}], \"ad_info\": null}",
+    "delivery_fee_discount": 3,
+    "delivery_mode": {
+      "border": "",
+      "color": "2395FF",
+      "gradient": {
+        "rgb_from": "00AAFF",
+        "rgb_to": "0085FF"
+      },
+      "icon_hash": "b9b45d2f6ff0dbeef3a78ef0e4e90abapng",
+      "id": 1,
+      "is_solid": true,
+      "text": "蜂鸟专送",
+      "text_color": "FFFFFF"
+    },
+    "description": "Cuiqu Coffee奎克咖啡追求品质与效率完美配方， 采用自家烘焙的庄园咖啡豆冲煮新鲜好咖啡， 坚持健康、天然、不添加人工香料的现做轻食， 用最短等待时间萃取高质饮食品味。",
+    "distance": 771,
+    "favored": false,
+    "flavors": [{
+      "id": 242,
+      "name": "咖啡"
+    }, {
+      "id": 230,
+      "name": "西餐"
+    }],
+    "float_delivery_fee": 2.3,
+    "float_minimum_order_amount": 20,
+    "has_story": false,
+    "id": "E6587904084856248986",
+    "image_path": "8ededd916d4aaecb18a325618c2527b4png",
+    "is_new": false,
+    "is_premium": false,
+    "is_star": false,
+    "is_stock_empty": 0,
+    "is_valid": 1,
+    "latitude": 31.242054,
+    "longitude": 121.440695,
+    "max_applied_quantity_per_order": -1,
+    "name": "CuiquCoffee奎克咖啡(189弄店)",
+    "next_business_time": "明天 08:00",
+    "only_use_poi": false,
+    "opening_hours": ["08:00/22:00"],
+    "order_lead_time": 21,
+    "out_of_range": false,
+    "phone": "15800448779 021-52660868",
+    "piecewise_agent_fee": {
+      "description": "配送费¥2.3",
+      "extra_fee": -1.2,
+      "is_extra": true,
+      "no_subsidy_fee": "¥5.3",
+      "rules": [{
+        "fee": 2.3,
+        "price": 20
+      }],
+      "tips": "配送费¥2.3"
+    },
+    "platform": 0,
+    "posters": [],
+    "promotion_info": "亲爱的顾客，因为系统隐私设置无法查看您真实手机号，建议您在备注留下真实号码，我们将不定期提供专属于您个人的专属福利。",
+    "rating": 4.8,
+    "rating_count": 84,
+    "recent_order_num": 355,
+    "recommend": {
+      "color": "#e8470b",
+      "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png",
+      "is_ad": false,
+      "reason": "口碑人气好店"
+    },
+    "recommend_reasons": [{
+      "name": "配送飞快"
+    }],
+    "shop_sign": {
+      "brand_story": "",
+      "image_hash": "3ff2cad7db79cc7d10a0e526427a96e2png"
+    },
+    "redpack": [{
+      "description": "9元无门槛红包",
+      "status": 0,
+      "sub_title": "超级会员红包",
+      "title": "无门槛",
+      "title_detail": "无门槛",
+      "type": 1,
+      "value": "9"
+    }],
+    "regular_customer_count": 0,
+    "scheme": "https://h5.ele.me/shop/#id=E6587904084856248986",
+    "status": 1,
+    "support_tags": [{
+      "border": "dddddd",
+      "color": "666666",
+      "icon": "4e20966ca2a516de3f02fb9c7fd1bc6dpng",
+      "text": "咖啡",
+      "type": 1
+    }, {
+      "border": "dddddd",
+      "color": "333333",
+      "text": "品质联盟"
+    }],
+    "supports": [{
+      "border": "90dddddd",
+      "description": "商家原因导致订单取消，赔付代金券",
+      "icon_color": "999999",
+      "icon_name": "赔",
+      "id": 10,
+      "name": "拒单赔",
+      "text_color": "666666",
+      "two_characters_icon_name": ""
+    }, {
+      "border": "90dddddd",
+      "description": "该商户食品安全已由国泰产险承担，食品安全有保障",
+      "icon_color": "999999",
+      "icon_name": "保",
+      "id": 7,
+      "name": "食安保",
+      "text_color": "666666",
+      "two_characters_icon_name": "保险"
+    }],
+    "theme": {
+      "default_color": "2395ff",
+      "header_style": 0,
+      "hongbao_style": 0,
+      "price_color": "ff5339",
+      "third_tab_name": "商家",
+      "vanish_fields": []
+    },
+    "type": 0
+  }
+}
