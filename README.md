@@ -5,6 +5,7 @@
 ![image](https://github.com/jiangdonghua/vue-cli3-webpack4/blob/master/src/assets/screenSheet/%E8%AF%84%E4%BB%B7.png)
 ![image](https://github.com/jiangdonghua/vue-cli3-webpack4/blob/master/src/assets/screenSheet/%E8%AF%A6%E6%83%85.png)
 ![image](https://github.com/jiangdonghua/vue-cli3-webpack4/blob/master/src/assets/screenSheet/%E5%95%86%E5%93%81.png)
+![image](https://github.com/jiangdonghua/vue-cli3-webpack4/blob/master/src/assets/screenSheet/%E7%99%BB%E5%BD%95.png)
 ## Project setup
 ```
 yarn install
