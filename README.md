@@ -24,6 +24,7 @@ yarn run test
 ```
 yarn run lint
 ```
+####最重要的优化 底部购物车需用createApi创建 待处理 不然体验不好
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
